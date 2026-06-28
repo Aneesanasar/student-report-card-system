@@ -51,3 +51,12 @@ java CompleteReportCardSystem
 
 
 This project is for educational purposes.
+
+PROJECT SCREENSHOT:
+
+![🔐Login Page](LOGIN.jpeg)
+![🛠️Admin Panel](admin.jpeg)
+![📊Report Page](ReportPage.jpeg)
+![📄Report PDF](reportpdf.jpeg)
+
+
